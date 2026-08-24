@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Kabeel Raj! 👋
+---
 
-<!--
-**kabeelrajk/kabeelrajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I’m currently working on scalable web architectures and data-driven systems.
+- 💻 Back-end enthusiast with a deep love for structural design and efficient APIs.
+- ⚡ Fun fact: I enjoy solving complex logic puzzles and breaking down monolithic systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** TypeScript, JavaScript, HTML5, CSS3
+- **Frameworks & Libraries:** React, Node.js, Express.js
+- **Databases & Tools:** Git, GitHub, PostgreSQL, MongoDB
+
+---
+
+### 🌟 Featured Project
+#### 📊 [Multi-Tenant SaaS Analytics Dashboard](https://github.com)
+A robust, secure analytics platform built with TypeScript to isolate tenant information efficiently while providing highly performant metric monitoring dashboards.
+- **Key Features:** Multi-tenancy isolation, dynamic charts, real-time statistics.
+- **Tech Stack:** TypeScript, React, Component Libraries.
+
+---
+
+
