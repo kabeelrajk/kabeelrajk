@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** TypeScript, JavaScript, HTML5, CSS3
-- **Frameworks & Libraries:** React, Node.js, Express.js
+- **Frameworks & Libraries:** React
 - **Databases & Tools:** Git, GitHub, PostgreSQL, MongoDB
 
 ---
