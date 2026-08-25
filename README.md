@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack & Tools
 - **Languages:** TypeScript, JavaScript, HTML5, CSS3
 - **Frameworks & Libraries:** React
-- **Databases & Tools:** Git, GitHub, PostgreSQL, MongoDB
+- **Databases & Tools:** Git, GitHub, MYSQL
 
 ---
 
