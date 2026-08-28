@@ -2,7 +2,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm a Front-End Developer and Artificial Intelligence & Data Science undergraduate passionate about creating responsive, user-friendly web applications.
+- 🔭 I'm a Front-End Developer and Artificial Intelligence & Data Science undergraduate passionate about creating responsive, user-friendly  web applications.
 - 💻  I have hands-on experience with React.js, JavaScript, HTML5, CSS3, REST API integration, and responsive design.
 - ⚡ Fun fact: I enjoy solving complex logic puzzles and breaking down monolithic systems.
 
