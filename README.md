@@ -2,7 +2,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on scalable web architectures and data-driven systems.
+- 🔭 I'm a Front-End Developer and Artificial Intelligence & Data Science undergraduate passionate about creating responsive, user-friendly web applications.
 - 💻 Back-end enthusiast with a deep love for structural design and efficient APIs.
 - ⚡ Fun fact: I enjoy solving complex logic puzzles and breaking down monolithic systems.
 
