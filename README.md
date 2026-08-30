@@ -9,7 +9,7 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Java,TypeScript, JavaScript, HTML5, CSS3
+- **Languages:** Java,Python,TypeScript, JavaScript, HTML5, CSS3
 - **Frameworks & Libraries:** React
 - **Databases & Tools:** Git, GitHub, MYSQL
 
